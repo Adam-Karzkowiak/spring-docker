@@ -27,3 +27,4 @@ run it with
 docker run -p 7000:8080 [id]
 docker run -p 7001:8080 [id]
 ```
+and hit http://localhost:7000/hello and http://localhost:7001/hello
